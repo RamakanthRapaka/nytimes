@@ -44,6 +44,9 @@ http://127.0.0.1:8000/api/topthreebooksmail
 # Send Email With Top Books List Through Command
 php artisan top:books
 
+# Email View
+![alt text](https://i.ibb.co/pJDYsT5/screencapture-mailtrap-io-inboxes-388462-messages-3135606652-html-2022-11-26-02-38-30.png)
+
 # Get Book By ID
 http://127.0.0.1:8000/api/getbookbyid
 
