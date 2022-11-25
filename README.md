@@ -29,6 +29,8 @@ php artisan serve
 # Home Page
 http://127.0.0.1:8000/
 
+# Home Page View
+![alt text](https://ibb.co/WDtWXZQ)
 
 # Load This Week Best Books And Lists Into DB For Grid
 http://127.0.0.1:8000/api/bestseller
