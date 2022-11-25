@@ -20,7 +20,7 @@ return new class () extends Migration {
             $table->integer('book_rank');
             $table->integer('weeks_on_list');
             $table->text('image');
-            $table->longText('buy_links');
+            $table->json('buy_links');
             $table->timestamps();
         });
     }
