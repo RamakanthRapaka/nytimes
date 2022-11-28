@@ -30,7 +30,7 @@ php artisan serve
 http://127.0.0.1:8000/
 
 # Home Page View
-![alt text](https://i.ibb.co/WDtWXZQ/screencapture-127-0-0-1-8000-2022-11-26-02-28-43.png)
+![alt text](https://www.linkpicture.com/q/screencapture-127-0-0-1-8000-2022-11-28-12_42_52.png)
 
 # Load This Week Best Books And Lists Into DB For Grid
 http://127.0.0.1:8000/api/bestseller
