@@ -51,6 +51,7 @@ Mail Trap
 ![alt text](https://www.linkpicture.com/q/screencapture-mailtrap-io-inboxes-388462-messages-3135606652-responsive-2022-11-28-12_26_55.png)
 
 # Email Template
+[Mark Down](https://markdown-it.github.io/){:target="_blank"}
 [Mark Down](https://markdown-it.github.io/)
 
 # Get Book By ID
